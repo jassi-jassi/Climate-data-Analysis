@@ -1,14 +1,18 @@
 # Climate-data-Analysis
 
 
-Overview
+#Overview
+
 This project focuses on analyzing historical climate data to derive insights and trends using time series analysis techniques, specifically ARIMA modeling. The dataset used contains monthly temperature and precipitation records from weather stations.
 
-Key Features
+#Key Features
+
 Data Exploration: Explore the dataset to understand its structure and content.
 Time Series Modeling: Apply ARIMA (AutoRegressive Integrated Moving Average) models for forecasting temperature and precipitation.
 Evaluation: Assess model performance using RMSE (Root Mean Squared Error) and MedAE (Median Absolute Error).
-Dataset
+
+#Dataset
+
 The dataset used in this project includes the following columns:
 
 STATION: Weather station identifier
